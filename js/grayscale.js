@@ -119,12 +119,12 @@ $(function() {
         {
             title:"Oh, Virginia!",
             artist:"Katy Benko",
-            m4v:"media/oh_virginia/oh_virginia_katy_benko.mp3",
-            poster:"media/oh_virginia/oh_virginia_video.jpg"
+            mp3:"media/oh_virginia/oh_virginia_katy_benko.mp3",
+            poster:"media/oh_virginia/oh_virginia_katy_benko.jpg"
         }
     ], {
-        swfPath: "../dist/jplayer",
-        supplied: "webmv, ogv, m4v, oga, mp3",
+        swfPath: "bower_components/jplayer/dist/jplayer",
+        supplied: "m4v, mp3",
         useStateClassSkin: true,
         autoBlur: false,
         smoothPlayBar: true,
