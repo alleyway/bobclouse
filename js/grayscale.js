@@ -129,7 +129,10 @@ $(function() {
         autoBlur: false,
         smoothPlayBar: true,
         keyEnabled: true,
-        audioFullScreen: true
+        audioFullScreen: true,
+        size: {
+            width: "100%"
+        }
     });
 
 

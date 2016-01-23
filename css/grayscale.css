@@ -495,3 +495,7 @@ form .row:first-child .floating-label-form-group {
     margin-top:20px;
     margin-bottom: 6px;
 }
+
+.custom-playlist {
+    font-size: larger;
+}
