@@ -111,69 +111,16 @@ $(function() {
         cssSelectorAncestor: "#jp_container_1"
     }, [
         {
-            title:"Oh Virginia (video)",
-            artist:"Bob Clouse",
+            title:"Oh, Virginia!",
+            artist:"Choral Version with Video",
             m4v:"media/oh_virginia/oh_virginia_video.m4v",
-            poster: "http://www.jplayer.org/audio/poster/The_Stark_Palace_640x360.png"
+            poster:"media/oh_virginia/oh_virginia_video.jpg"
         },
         {
-            title:"Your Face",
-            artist:"The Stark Palace",
-            mp3:"http://www.jplayer.org/audio/mp3/TSP-05-Your_face.mp3",
-            oga:"http://www.jplayer.org/audio/ogg/TSP-05-Your_face.ogg",
-            poster: "http://www.jplayer.org/audio/poster/The_Stark_Palace_640x360.png"
-        },
-        {
-            title:"Hidden",
-            artist:"Miaow",
-            mp3:"http://www.jplayer.org/audio/mp3/Miaow-02-Hidden.mp3",
-            oga:"http://www.jplayer.org/audio/ogg/Miaow-02-Hidden.ogg",
-            poster: "http://www.jplayer.org/audio/poster/Miaow_640x360.png"
-        },
-        {
-            title:"Big Buck Bunny Trailer",
-            artist:"Blender Foundation",
-            m4v:"http://www.jplayer.org/video/m4v/Big_Buck_Bunny_Trailer.m4v",
-            ogv:"http://www.jplayer.org/video/ogv/Big_Buck_Bunny_Trailer.ogv",
-            webmv: "http://www.jplayer.org/video/webm/Big_Buck_Bunny_Trailer.webm",
-            poster:"http://www.jplayer.org/video/poster/Big_Buck_Bunny_Trailer_480x270.png"
-        },
-        {
-            title:"Finding Nemo Teaser",
-            artist:"Pixar",
-            m4v: "http://www.jplayer.org/video/m4v/Finding_Nemo_Teaser.m4v",
-            ogv: "http://www.jplayer.org/video/ogv/Finding_Nemo_Teaser.ogv",
-            webmv: "http://www.jplayer.org/video/webm/Finding_Nemo_Teaser.webm",
-            poster: "http://www.jplayer.org/video/poster/Finding_Nemo_Teaser_640x352.png"
-        },
-        {
-            title:"Cyber Sonnet",
-            artist:"The Stark Palace",
-            mp3:"http://www.jplayer.org/audio/mp3/TSP-07-Cybersonnet.mp3",
-            oga:"http://www.jplayer.org/audio/ogg/TSP-07-Cybersonnet.ogg",
-            poster: "http://www.jplayer.org/audio/poster/The_Stark_Palace_640x360.png"
-        },
-        {
-            title:"Incredibles Teaser",
-            artist:"Pixar",
-            m4v: "http://www.jplayer.org/video/m4v/Incredibles_Teaser.m4v",
-            ogv: "http://www.jplayer.org/video/ogv/Incredibles_Teaser.ogv",
-            webmv: "http://www.jplayer.org/video/webm/Incredibles_Teaser.webm",
-            poster: "http://www.jplayer.org/video/poster/Incredibles_Teaser_640x272.png"
-        },
-        {
-            title:"Tempered Song",
-            artist:"Miaow",
-            mp3:"http://www.jplayer.org/audio/mp3/Miaow-01-Tempered-song.mp3",
-            oga:"http://www.jplayer.org/audio/ogg/Miaow-01-Tempered-song.ogg",
-            poster: "http://www.jplayer.org/audio/poster/Miaow_640x360.png"
-        },
-        {
-            title:"Lentement",
-            artist:"Miaow",
-            mp3:"http://www.jplayer.org/audio/mp3/Miaow-03-Lentement.mp3",
-            oga:"http://www.jplayer.org/audio/ogg/Miaow-03-Lentement.ogg",
-            poster: "http://www.jplayer.org/audio/poster/Miaow_640x360.png"
+            title:"Oh, Virginia!",
+            artist:"Katy Benko",
+            m4v:"media/oh_virginia/oh_virginia_katy_benko.mp3",
+            poster:"media/oh_virginia/oh_virginia_video.jpg"
         }
     ], {
         swfPath: "../dist/jplayer",
