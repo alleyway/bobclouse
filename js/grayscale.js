@@ -258,14 +258,74 @@ $(function() {
     });
 
     new jPlayerPlaylist({
-        jPlayer: "#jquery_jplayer_3",
-        cssSelectorAncestor: "#jp_container_3"
+        jPlayer: "#jquery_jplayer_4",
+        cssSelectorAncestor: "#jp_container_4"
     }, [
         {
-            title:"How High the Moon (clip)",
-            mp3:"media/new_look_at_old_favs/01.mp3",
-            poster:"media/new_look_at_old_favs/cover.jpg"
+            title:"How High the Moon",
+            mp3:"media/performances/01.mp3",
+            poster:"media/performances/cover.jpg"
         },
+        {
+            title:"Hello Dolly",
+            mp3:"media/performances/02.mp3",
+            poster:"media/performances/cover.jpg"
+        },
+        {
+            title:"(Instrumental) As Time Goes By",
+            mp3:"media/performances/03.mp3",
+            poster:"media/performances/cover.jpg"
+        },
+        {
+            title:"I Don't Know Why",
+            mp3:"media/performances/04.mp3",
+            poster:"media/performances/cover.jpg"
+        },
+        {
+            title:"(Instrumental) Tenderly",
+            mp3:"media/performances/05.mp3",
+            poster:"media/performances/cover.jpg"
+        },
+        {
+            title:"Good Luck Charm",
+            mp3:"media/performances/06.mp3",
+            poster:"media/performances/cover.jpg"
+        },
+        {
+            title:"Your Cheatin' Heart",
+            mp3:"media/performances/07.mp3",
+            poster:"media/performances/cover.jpg"
+        },
+        {
+            title:"(Instrumental) Autumn In New York",
+            mp3:"media/performances/08.mp3",
+            poster:"media/performances/cover.jpg"
+        },
+        {
+            title:"Hey Good Lookin'",
+            mp3:"media/performances/09.mp3",
+            poster:"media/performances/cover.jpg"
+        },
+        {
+            title:"The Nearness Of You",
+            mp3:"media/performances/10.mp3",
+            poster:"media/performances/cover.jpg"
+        },
+        {
+            title:"(Instrumental) Bali Hai",
+            mp3:"media/performances/11.mp3",
+            poster:"media/performances/cover.jpg"
+        },
+        {
+            title:"Folsom Prison Blues",
+            mp3:"media/performances/12.mp3",
+            poster:"media/performances/cover.jpg"
+        },
+        {
+            title:"What A Wonderful World",
+            mp3:"media/performances/13.mp3",
+            poster:"media/performances/cover.jpg"
+        }
 
     ], {
         swfPath: "bower_components/jplayer/dist/jplayer",
