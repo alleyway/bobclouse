@@ -105,6 +105,180 @@ $(function() {
     });
 
 
+    new jPlayerPlaylist({
+        jPlayer: "#jquery_jplayer_2",
+        cssSelectorAncestor: "#jp_container_2"
+    }, [
+        {
+            title:"Celebrate Virginia (clip)",
+            mp3:"media/life_and_times/track01.mp3",
+            poster:"media/life_and_times/cover.jpg"
+        },
+        {
+            title:"Maybe Baby (clip)",
+            mp3:"media/life_and_times/track02.mp3",
+            poster:"media/life_and_times/cover.jpg"
+        },
+        {
+            title:"Puttin' Me On (clip)",
+            mp3:"media/life_and_times/track03.mp3",
+            poster:"media/life_and_times/cover.jpg"
+        },
+        {
+            title:"Goodbye to Love (clip)",
+            mp3:"media/life_and_times/track04.mp3",
+            poster:"media/life_and_times/cover.jpg"
+        },
+        {
+            title:"Jeannie Lee (clip)",
+            mp3:"media/life_and_times/track05.mp3",
+            poster:"media/life_and_times/cover.jpg"
+        },
+        {
+            title:"Runaway Heart (clip)",
+            mp3:"media/life_and_times/track06.mp3",
+            poster:"media/life_and_times/cover.jpg"
+        },
+        {
+            title:"Falling in Love (clip)",
+            mp3:"media/life_and_times/track07.mp3",
+            poster:"media/life_and_times/cover.jpg"
+        },
+        {
+            title:"Never Again (clip)",
+            mp3:"media/life_and_times/track08.mp3",
+            poster:"media/life_and_times/cover.jpg"
+        },
+        {
+            title:"Pardon Me (clip)",
+            mp3:"media/life_and_times/track09.mp3",
+            poster:"media/life_and_times/cover.jpg"
+        },
+        {
+            title:"Field Sobriety Hop (clip)",
+            mp3:"media/life_and_times/track10.mp3",
+            poster:"media/life_and_times/cover.jpg"
+        },
+        {
+            title:"Mail Box Blues (clip)",
+            mp3:"media/life_and_times/track11.mp3",
+            poster:"media/life_and_times/cover.jpg"
+        },
+        {
+            title:"Molly Bolyn (clip)",
+            mp3:"media/life_and_times/track12.mp3",
+            poster:"media/life_and_times/cover.jpg"
+        },
+        {
+            title:"Oh, Virginia (clip)",
+            mp3:"media/life_and_times/track13.mp3",
+            poster:"media/life_and_times/cover.jpg"
+        }
+
+    ], {
+        swfPath: "bower_components/jplayer/dist/jplayer",
+        supplied: "mp3, m4v",
+        useStateClassSkin: true,
+        autoBlur: false,
+        smoothPlayBar: true,
+        keyEnabled: true,
+        audioFullScreen: true,
+        size: {
+            width: "100%"
+        }
+    });
+
+    new jPlayerPlaylist({
+        jPlayer: "#jquery_jplayer_3",
+        cssSelectorAncestor: "#jp_container_3"
+    }, [
+        {
+            title:"For Me and My Gal (clip)",
+            mp3:"media/new_look_at_old_favs/01.mp3",
+            poster:"media/new_look_at_old_favs/cover.jpg"
+        },
+        {
+            title:"Way Down Yonder In New Orleans (clip)",
+            mp3:"media/new_look_at_old_favs/02.mp3",
+            poster:"media/new_look_at_old_favs/cover.jpg"
+        },
+        {
+            title:"Toot, Toot Tootsie Goodbye (clip)",
+            mp3:"media/new_look_at_old_favs/03.mp3",
+            poster:"media/new_look_at_old_favs/cover.jpg"
+        },
+        {
+            title:"You're A Grand Old Flag (clip)",
+            mp3:"media/new_look_at_old_favs/04.mp3",
+            poster:"media/new_look_at_old_favs/cover.jpg"
+        }
+        //,{
+        //    title:"Whispering (clip)",
+        //    mp3:"media/new_look_at_old_favs/05.mp3",
+        //    poster:"media/new_look_at_old_favs/cover.jpg"
+        //},
+        //{
+        //    title:"Ballin' The Jack (clip)",
+        //    mp3:"media/new_look_at_old_favs/06.mp3",
+        //    poster:"media/new_look_at_old_favs/cover.jpg"
+        //},
+        //{
+        //    title:"Look For The Silver Lining (clip)",
+        //    mp3:"media/new_look_at_old_favs/07.mp3",
+        //    poster:"media/new_look_at_old_favs/cover.jpg"
+        //},
+        //{
+        //    title:"Peg Of My Heart (clip)",
+        //    mp3:"media/new_look_at_old_favs/08.mp3",
+        //    poster:"media/new_look_at_old_favs/cover.jpg"
+        //},
+        //{
+        //    title:"I want a Girl, Just Like The Girl (clip)",
+        //    mp3:"media/new_look_at_old_favs/09.mp3",
+        //    poster:"media/new_look_at_old_favs/cover.jpg"
+        //},
+        //{
+        //    title:"April Showers (clip)",
+        //    mp3:"media/new_look_at_old_favs/10.mp3",
+        //    poster:"media/new_look_at_old_favs/cover.jpg"
+        //}
+
+
+    ], {
+        swfPath: "bower_components/jplayer/dist/jplayer",
+        supplied: "mp3, m4v",
+        useStateClassSkin: true,
+        autoBlur: false,
+        smoothPlayBar: true,
+        keyEnabled: true,
+        audioFullScreen: true,
+        size: {
+            width: "100%"
+        }
+    });
+
+    new jPlayerPlaylist({
+        jPlayer: "#jquery_jplayer_3",
+        cssSelectorAncestor: "#jp_container_3"
+    }, [
+        {
+            title:"How High the Moon (clip)",
+            mp3:"media/new_look_at_old_favs/01.mp3",
+            poster:"media/new_look_at_old_favs/cover.jpg"
+        },
+
+    ], {
+        swfPath: "bower_components/jplayer/dist/jplayer",
+        supplied: "mp3, m4v",
+        useStateClassSkin: true,
+        autoBlur: false,
+        smoothPlayBar: true,
+        keyEnabled: true,
+        audioFullScreen: true,
+        size: {
+            width: "100%"
+        }
+    });
 
     new jPlayerPlaylist({
         jPlayer: "#jquery_jplayer_1",
