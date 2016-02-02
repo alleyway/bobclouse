@@ -277,11 +277,12 @@ a.navbar-brand {
     padding-top: 100px;
 }
 
-.download-section {
+.statesong-section {
     width: 100%;
     padding: 50px 0;
     color: #fff;
-    background: url(../img/downloads-bg.jpg) no-repeat center center scroll;
+    text-shadow: 0 0 6px #000000;
+    background: url(../img/downloads-bg.jpg) no-repeat bottom center scroll;
     background-color: #000;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -499,4 +500,3 @@ form .row:first-child .floating-label-form-group {
 .custom-playlist {
     font-size: larger;
 }
-

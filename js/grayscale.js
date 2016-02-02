@@ -110,67 +110,67 @@ $(function() {
         cssSelectorAncestor: "#jp_container_2"
     }, [
         {
-            title:"Celebrate Virginia (clip)",
+            title:"1. Celebrate Virginia (clip)",
             mp3:"media/life_and_times/track01.mp3",
             poster:"media/life_and_times/cover.jpg"
         },
         {
-            title:"Maybe Baby (clip)",
+            title:"2. Maybe Baby (clip)",
             mp3:"media/life_and_times/track02.mp3",
             poster:"media/life_and_times/cover.jpg"
         },
         {
-            title:"Puttin' Me On (clip)",
+            title:"3. Puttin' Me On (clip)",
             mp3:"media/life_and_times/track03.mp3",
             poster:"media/life_and_times/cover.jpg"
         },
         {
-            title:"Goodbye to Love (clip)",
+            title:"4. Goodbye to Love (clip)",
             mp3:"media/life_and_times/track04.mp3",
             poster:"media/life_and_times/cover.jpg"
         },
         {
-            title:"Jeannie Lee (clip)",
+            title:"5. Jeannie Lee (clip)",
             mp3:"media/life_and_times/track05.mp3",
             poster:"media/life_and_times/cover.jpg"
         },
         {
-            title:"Runaway Heart (clip)",
+            title:"6. Runaway Heart (clip)",
             mp3:"media/life_and_times/track06.mp3",
             poster:"media/life_and_times/cover.jpg"
         },
         {
-            title:"Falling in Love (clip)",
+            title:"7. Falling in Love (clip)",
             mp3:"media/life_and_times/track07.mp3",
             poster:"media/life_and_times/cover.jpg"
         },
         {
-            title:"Never Again (clip)",
+            title:"8. Never Again (clip)",
             mp3:"media/life_and_times/track08.mp3",
             poster:"media/life_and_times/cover.jpg"
         },
         {
-            title:"Pardon Me (clip)",
+            title:"9. Pardon Me (clip)",
             mp3:"media/life_and_times/track09.mp3",
             poster:"media/life_and_times/cover.jpg"
         },
         {
-            title:"Field Sobriety Hop (clip)",
+            title:"10. Field Sobriety Hop (clip)",
             mp3:"media/life_and_times/track10.mp3",
             poster:"media/life_and_times/cover.jpg"
         },
         {
-            title:"Mail Box Blues (clip)",
+            title:"11. Mail Box Blues (clip)",
             mp3:"media/life_and_times/track11.mp3",
             poster:"media/life_and_times/cover.jpg"
         },
         {
-            title:"Molly Bolyn (clip)",
+            title:"12. Molly Bolyn (clip)",
             mp3:"media/life_and_times/track12.mp3",
             poster:"media/life_and_times/cover.jpg"
         },
         {
-            title:"Oh, Virginia (clip)",
+            title:"13. Oh, Virginia (clip)",
             mp3:"media/life_and_times/track13.mp3",
             poster:"media/life_and_times/cover.jpg"
         }
@@ -193,56 +193,55 @@ $(function() {
         cssSelectorAncestor: "#jp_container_3"
     }, [
         {
-            title:"For Me and My Gal (clip)",
-            mp3:"media/new_look_at_old_favs/01.mp3",
-            poster:"media/new_look_at_old_favs/cover.jpg"
-        },
-        {
-            title:"Way Down Yonder In New Orleans (clip)",
-            mp3:"media/new_look_at_old_favs/02.mp3",
-            poster:"media/new_look_at_old_favs/cover.jpg"
-        },
-        {
-            title:"Toot, Toot Tootsie Goodbye (clip)",
-            mp3:"media/new_look_at_old_favs/03.mp3",
-            poster:"media/new_look_at_old_favs/cover.jpg"
-        },
-        {
-            title:"You're A Grand Old Flag (clip)",
-            mp3:"media/new_look_at_old_favs/04.mp3",
+            title:"1. For Me and My Gal (clip)",
+            mp3:"media/new_look_at_old_favs/track01.mp3",
             poster:"media/new_look_at_old_favs/cover.jpg"
         }
-        //,{
-        //    title:"Whispering (clip)",
-        //    mp3:"media/new_look_at_old_favs/05.mp3",
-        //    poster:"media/new_look_at_old_favs/cover.jpg"
-        //},
-        //{
-        //    title:"Ballin' The Jack (clip)",
-        //    mp3:"media/new_look_at_old_favs/06.mp3",
-        //    poster:"media/new_look_at_old_favs/cover.jpg"
-        //},
-        //{
-        //    title:"Look For The Silver Lining (clip)",
-        //    mp3:"media/new_look_at_old_favs/07.mp3",
-        //    poster:"media/new_look_at_old_favs/cover.jpg"
-        //},
-        //{
-        //    title:"Peg Of My Heart (clip)",
-        //    mp3:"media/new_look_at_old_favs/08.mp3",
-        //    poster:"media/new_look_at_old_favs/cover.jpg"
-        //},
-        //{
-        //    title:"I want a Girl, Just Like The Girl (clip)",
-        //    mp3:"media/new_look_at_old_favs/09.mp3",
-        //    poster:"media/new_look_at_old_favs/cover.jpg"
-        //},
-        //{
-        //    title:"April Showers (clip)",
-        //    mp3:"media/new_look_at_old_favs/10.mp3",
-        //    poster:"media/new_look_at_old_favs/cover.jpg"
-        //}
-
+        ,{
+            title:"2. Whispering (clip)",
+            mp3:"media/new_look_at_old_favs/track02.mp3",
+            poster:"media/new_look_at_old_favs/cover.jpg"
+        },
+        {
+            title:"3. Ballin' The Jack (clip)",
+            mp3:"media/new_look_at_old_favs/track03.mp3",
+            poster:"media/new_look_at_old_favs/cover.jpg"
+        },
+        {
+            title:"4. Toot, Toot Tootsie Goodbye (clip)",
+            mp3:"media/new_look_at_old_favs/track04.mp3",
+            poster:"media/new_look_at_old_favs/cover.jpg"
+        },
+        {
+            title:"5. Peg Of My Heart (clip)",
+            mp3:"media/new_look_at_old_favs/track05.mp3",
+            poster:"media/new_look_at_old_favs/cover.jpg"
+        },
+        {
+            title:"6. I want a Girl, Just Like The Girl (clip)",
+            mp3:"media/new_look_at_old_favs/track06.mp3",
+            poster:"media/new_look_at_old_favs/cover.jpg"
+        },
+        {
+            title:"7. Look For The Silver Lining (clip)",
+            mp3:"media/new_look_at_old_favs/track07.mp3",
+            poster:"media/new_look_at_old_favs/cover.jpg"
+        },
+        {
+            title:"8. Way Down Yonder In New Orleans (clip)",
+            mp3:"media/new_look_at_old_favs/track08.mp3",
+            poster:"media/new_look_at_old_favs/cover.jpg"
+        },
+        {
+            title:"9. You're A Grand Old Flag (clip)",
+            mp3:"media/new_look_at_old_favs/track09.mp3",
+            poster:"media/new_look_at_old_favs/cover.jpg"
+        },
+        {
+            title:"10. April Showers (clip)",
+            mp3:"media/new_look_at_old_favs/track10.mp3",
+            poster:"media/new_look_at_old_favs/cover.jpg"
+        }
 
     ], {
         swfPath: "bower_components/jplayer/dist/jplayer",
@@ -272,7 +271,7 @@ $(function() {
             poster:"media/performances/cover.jpg"
         },
         {
-            title:"(Instrumental) As Time Goes By",
+            title:"As Time Goes By (instrumental) ",
             mp3:"media/performances/03.mp3",
             poster:"media/performances/cover.jpg"
         },
@@ -282,7 +281,7 @@ $(function() {
             poster:"media/performances/cover.jpg"
         },
         {
-            title:"(Instrumental) Tenderly",
+            title:"Tenderly (instrumental)",
             mp3:"media/performances/05.mp3",
             poster:"media/performances/cover.jpg"
         },
@@ -297,7 +296,7 @@ $(function() {
             poster:"media/performances/cover.jpg"
         },
         {
-            title:"(Instrumental) Autumn In New York",
+            title:"Autumn In New York (instrumental)",
             mp3:"media/performances/08.mp3",
             poster:"media/performances/cover.jpg"
         },
@@ -312,7 +311,7 @@ $(function() {
             poster:"media/performances/cover.jpg"
         },
         {
-            title:"(Instrumental) Bali Hai",
+            title:"Bali Hai (instrumental)",
             mp3:"media/performances/11.mp3",
             poster:"media/performances/cover.jpg"
         },
