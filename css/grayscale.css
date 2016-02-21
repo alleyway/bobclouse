@@ -426,7 +426,7 @@ body {
     position: relative;
     margin-bottom: 0;
     padding-bottom: .5em;
-    border-bottom: 1px solid #848C01;
+    border-bottom: 1px solid #105999;
 }
 
 .floating-label-form-group input,
@@ -462,22 +462,17 @@ body {
     transition: top .3s ease,opacity .3s ease;
 }
 
-.floating-label-form-group::not(:first-child) {
-    padding-left: 14px;
-    border-left: 1px solid #0f0;
-}
-
 .floating-label-form-group-with-value label {
     top: 0;
     opacity: 1;
 }
 
 .floating-label-form-group-with-focus label {
-    color: #848C01;
+    color: #105999;
 }
 
 form .row:first-child .floating-label-form-group {
-    border-top: 1px solid #848C01;
+    border-top: 1px solid #105999;
 }
 
 .alert-success {
@@ -494,6 +489,16 @@ form .row:first-child .floating-label-form-group {
     border-radius: 0;
 }
 
+.contact-send-button {
+    color: #105999;
+    border-color: #105999;
+    background: none;
+}
+.contact-send-button:hover {
+    background-color: #105999;
+    border-color: #105999;
+    color: white;
+}
 
 /*end contact*/
 .testimonial {
