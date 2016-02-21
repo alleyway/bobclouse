@@ -183,6 +183,9 @@ a.navbar-brand {
     color: #fff;
     text-shadow: 0 0 10px #000000;
 }
+.logo_intro {
+    width: 280px;
+}
 
 @media(min-width:768px) {
     .intro {
@@ -197,6 +200,10 @@ a.navbar-brand {
     .intro .intro-body .intro-text {
         font-size: 26px;
     }
+    .logo_intro {
+        width: 400px;
+    }
+
 }
 
 .btn-circle {
@@ -296,7 +303,7 @@ a.navbar-brand {
     margin-top: 100px;
 }
 
-@media(min-width:767px) {
+@media(min-width:768px) {
     .content-section {
         padding-top: 100px;
     }
@@ -389,9 +396,8 @@ body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
 
-.logo_intro {
-    width: 300px;
-}
+
+
 
 .logo_text {
 
@@ -499,4 +505,24 @@ form .row:first-child .floating-label-form-group {
 
 .custom-playlist {
     font-size: larger;
+}
+
+.intro-bob {
+    background-size: contain;
+    background: url("../img/bob.jpg") no-repeat center center scroll;
+    height: 300px;
+}
+
+@media(min-width:768px) {
+    .intro-bob {
+        height: 600px;
+        background-size: 100%;
+    }
+}
+
+
+.tagline {
+    text-transform: none;
+    color: #fff;
+    margin: 12px;
 }
