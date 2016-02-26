@@ -330,17 +330,17 @@ a.navbar-brand {
 }
 
 .btn-default {
-    border: 1px solid #42dca3;
-    color: #42dca3;
+    border: 1px solid #105999;
+    color: #105999;
     background-color: transparent;
 }
 
 .btn-default:hover,
 .btn-default:focus {
-    border: 1px solid #42dca3;
+    border: 1px solid #105999;
     outline: 0;
     color: #000;
-    background-color: #42dca3;
+    background-color: #105999;
 }
 
 ul.banner-social-buttons {
@@ -478,7 +478,7 @@ form .row:first-child .floating-label-form-group {
 
 .alert-success {
     color: #4CAC53;
-    background-color: #5ff467;
+    background-color: #D8FFDA;
     border-color: #4CAC53;
     border-radius: 0;
 }
@@ -531,4 +531,11 @@ form .row:first-child .floating-label-form-group {
     text-transform: none;
     color: #fff;
     margin: 12px;
+}
+
+ol.songlist {
+    font-weight: bold;
+}
+ol.songlist li {
+    /*font-weight: normal;*/
 }
