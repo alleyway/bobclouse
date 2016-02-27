@@ -339,7 +339,7 @@ a.navbar-brand {
 .btn-default:focus {
     border: 1px solid #105999;
     outline: 0;
-    color: #000;
+    color: white;
     background-color: #105999;
 }
 
