@@ -534,8 +534,12 @@ form .row:first-child .floating-label-form-group {
 }
 
 ol.songlist {
-    font-weight: bold;
+    font-size: 15px;
 }
 ol.songlist li {
-    /*font-weight: normal;*/
+    margin-top: 6px;
+}
+.songtitle {
+    font-weight: bold;
+
 }
