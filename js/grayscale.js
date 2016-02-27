@@ -369,6 +369,23 @@ $(function() {
     });
 
 
+
+    function resizePosters() {
+        var jp = $(".jp-jplayer");
+        var width = jp.width();
+
+        var newHeight = Math.round(540/910 * width);
+        jp.css("height", newHeight + "px");
+        $(".jp-jplayer img").css("height", newHeight + "px");
+
+    }
+
+    $(window).resize(function(){
+        resizePosters();
+    });
+
+    resizePosters();
+
 });
 
 
@@ -376,3 +393,5 @@ $(function() {
 $('#name').focus(function() {
     $('#success').html('');
 });
+
+
