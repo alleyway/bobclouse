@@ -14,5 +14,8 @@ Commit data
     git add .
     git commit -m "COMMIT MESSAGE"
 
-push to origin
-    git
+Push to remote
+
+    git push origin
+
+REMEMBER: you must commit the gh-pages branch in order for updates to be live
